@@ -1,0 +1,11 @@
+C:\Users\angeluz\Desktop\RawGit-Example\bin\Release\RawGit-Example.exe.config
+C:\Users\angeluz\Desktop\RawGit-Example\bin\Release\RawGit-Example.exe
+C:\Users\angeluz\Desktop\RawGit-Example\bin\Release\RawGit-Example.pdb
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit-Example.csproj.AssemblyReference.cache
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit-Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit_Example.Form1.resources
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit_Example.Properties.Resources.resources
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit-Example.csproj.GenerateResource.cache
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit-Example.csproj.CoreCompileInputs.cache
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit-Example.exe
+C:\Users\angeluz\Desktop\RawGit-Example\obj\Release\RawGit-Example.pdb
